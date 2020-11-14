@@ -1,0 +1,9 @@
+//working on this project are 
+
+*Isaac Annan
+*Philip Kotey Nikoi
+
+//About the project 
+
+This is basically an online shop where shoes would be displayed for prospective customers to
+see and purchase.
